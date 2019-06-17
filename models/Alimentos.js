@@ -7,11 +7,11 @@ const AlimentosSchema = new mongoose.Schema(
       type: Number,
       default: 0
     },
-    cho: {
+    choPorcao: {
       type: Number,
       default: 0
     },
-    quantidade: {
+    quantidadeNaPorcao: {
       type: Number,
       default: 0
     },
